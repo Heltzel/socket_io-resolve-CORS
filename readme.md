@@ -32,4 +32,4 @@ Port 4000 is set in the server
 ```javascript
 import io from 'socket.io-client'
 const socket = io.connect('http://localhost:4000')
-```# socket_io-resolve-CORS
+```
